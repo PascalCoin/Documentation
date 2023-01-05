@@ -10,7 +10,7 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0",
     "@vuepress/theme-vue": "^1.0.0-alpha.44",
-    "vuepress": "^0.14.9",
+    "vuepress": "^1.9.7",
     "vuepress-plugin-reading-time": "^0.1.1"
   },
   "dependencies": {
